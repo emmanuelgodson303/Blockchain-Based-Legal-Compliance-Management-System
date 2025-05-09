@@ -11,3 +11,5 @@ M
 contracts/implementation.clar,9/1/91c0fe74befca057191d39f572c12654b59394d2
 S
 #contracts/requirement-tracking.clar,4/d/4d150f3c35586e0035944a9cfdd1588fd50f1b97
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
